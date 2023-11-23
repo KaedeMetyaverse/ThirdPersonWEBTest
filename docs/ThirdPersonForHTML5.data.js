@@ -173,6 +173,6 @@ Module['FS_createPath']('/ThirdPersonForHTML5/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 111, "filename": "/UE4CommandLine.txt"}, {"start": 111, "audio": 0, "end": 53580628, "filename": "/ThirdPersonForHTML5/Content/Paks/ThirdPersonForHTML5-HTML5.pak"}], "remote_package_size": 53580628, "package_uuid": "5468ce59-5bf9-4a76-b724-26b5df8f1e7d"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 111, "filename": "/UE4CommandLine.txt"}, {"start": 111, "audio": 0, "end": 53582816, "filename": "/ThirdPersonForHTML5/Content/Paks/ThirdPersonForHTML5-HTML5.pak"}], "remote_package_size": 53582816, "package_uuid": "cbf57ae0-59e0-4949-ae72-12caa7b6f8f7"});
 
 })();
